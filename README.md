@@ -1,4 +1,4 @@
-![logo](https://github.com/mo-hamada21/mo-hamada21/blob/main/dc4aa31cd8864b718547e7a0e3bc52b1%20(1).png)
+![logo](https://github.com/mo-hamada21/mo-hamada21/blob/main/dc4aa31cd8864b718547e7a0e3bc52b1%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Hamada</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist from Egypt</h3>
 
